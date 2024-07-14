@@ -12,3 +12,12 @@
     display: flex;
     padding-top: 50px;
 }
+.btn{
+    height: 40px;
+    margin:20px auto;
+    width: 130px;
+    display: block;
+    border-radius: 30px;
+    background-color: rgb(223, 219, 218);
+    cursor: pointer;
+}
